@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8254170d7809e9840b6810a3b57313cd, type: 3}
+  m_Name: Name Generator
+  m_EditorClassIdentifier: 
+  generatedName: qosede
+  randomizedName: qosede
+  characterVariations:
+  - character: a
+    variations:
+    - a
+    - ae
+    - au
+    - ay
+  - character: c
+    variations:
+    - c
+    - ch
+    - k
+    - cy
+  - character: e
+    variations:
+    - e
+    - ee
+    - ea
+  - character: f
+    variations:
+    - f
+    - ph
+    - fw
+    - fy
+  - character: i
+    variations:
+    - i
+    - y
+  - character: k
+    variations:
+    - k
+    - ch
+    - ky
+    - kw
+  - character: l
+    variations:
+    - l
+    - ll
+    - lh
+    - lw
+    - ly
+  - character: m
+    variations:
+    - m
+    - mn
+    - mw
+    - my
+  - character: n
+    variations:
+    - n
+    - ng
+    - ny
+    - nm
+  - character: o
+    variations:
+    - o
+    - ou
+  - character: r
+    variations:
+    - r
+    - ry
+    - rw
+  - character: p
+    variations:
+    - p
+    - ph
+  - character: q
+    variations:
+    - q
+    - qu
+    - qw
+  - character: s
+    variations:
+    - s
+    - ss
+    - sh
+  - character: t
+    variations:
+    - t
+    - th
+  - character: u
+    variations:
+    - u
+    - ua
+    - ue
+    - ui
+    - uo
+  - character: w
+    variations:
+    - w
+    - wy
+  - character: z
+    variations:
+    - z
+    - zz
